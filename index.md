@@ -2,9 +2,9 @@
 
 ## 最新资讯
 
-[正在制作！弓箭手(游戏)！](/archermakeing.txt)
+[弓箭手(游戏)已取消！](/archerko.txt)
 
-[正在制作！MiniWorld(待办日历)！](/miniworldmakeing.txt)
+[鸽了，MiniWorld(待办日历)](/miniworldgugugu.txt)
 
 ## 链接
 
