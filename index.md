@@ -1,13 +1,12 @@
 ### TU Studio
+日常搞一点Scratch/易语言/vbs的小项目，望支持！
 
 ## 最新资讯
+[MiniWorld(待办日历)](/miniworld.txt)
 
-[弓箭手(游戏)已取消！](/archerko.txt)
-
-[鸽了，MiniWorld(待办日历)](/miniworldgugugu.txt)
+[RpgMakerMv!](/rmm.txt)
 
 ## 链接
-
 [凉亭](/bbs/)
 
 [产品页面](/project/)
