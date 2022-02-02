@@ -4,8 +4,6 @@
 ## 最新资讯
 [MiniWorld(待办日历)](/miniworld.txt)
 
-[RpgMakerMv!](/rmm.txt)
-
 ## 链接
 [凉亭](/bbs/)
 
