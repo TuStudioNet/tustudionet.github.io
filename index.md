@@ -1,8 +1,9 @@
 ### TU Studio
-日常搞一点Scratch/易语言/vbs的小项目，望支持！
+
+最近没什么可搞的东西呢！
 
 ## 最新资讯
-[MiniWorld(待办日历)](/miniworld.txt)
+[Mini Space(小工具)](/minispace.txt)
 
 ## 链接
 [凉亭](/bbs/)
